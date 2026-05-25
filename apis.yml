@@ -1,0 +1,118 @@
+aid: eve-legal
+name: Eve
+description: >-
+  Eve (eve.legal) is a legal AI platform built by Butler Labs, Inc. for
+  plaintiff law firms. Marketed as "the only legal AI that works your whole
+  case with you," Eve 2.0 is positioned as a proactive AI workforce that spans
+  the full plaintiff case lifecycle — intake and evaluation, pre-litigation
+  drafting (medical chronologies, demand letters), litigation discovery
+  (propounding and responding), and case auditing. The platform is organized
+  around three product surfaces: Eve Agents (intake & evaluation, AI voice
+  agent, medical overviews, demand letters, drafting, propounding discovery,
+  responding to discovery), Eve Auditor (nightly audit of the active caseload
+  for missed value drivers such as TBIs, MRIs ordered but not taken, and
+  mass-tort eligibility), and Eve Analyst (announced as "coming soon"). Eve
+  targets personal injury and labor & employment plaintiff firms and claims
+  to be used by 1000+ firms with reported outcomes including a 250%
+  year-over-year revenue increase, 2.5x case capacity, 90% faster demand
+  letter generation, and a 4.9/5 G2 rating. Eve is SOC 2 Type 2 certified and
+  HIPAA compliant, with case data encrypted, isolated per-firm, and never
+  used to train shared models. The company is led by founder & CEO Jay
+  Madheswaran (formerly Rubrik, Lightspeed Venture Partners), co-founder & CPO
+  Matt Noe, and co-founder & Head of Engineering David Zeng, and has raised
+  $164M+ from venture investors. Eve is a closed B2B SaaS application; as of
+  this profile there is no public developer API, no public OpenAPI/AsyncAPI
+  documentation, no `docs.eve.legal` developer portal, no SDKs, and no public
+  repositories under the `eve-legal` GitHub organization (the org exists with
+  zero public repos as of May 2026). All access is through the Eve web
+  application following a sales-led "Schedule a call" / "Book a Demo" motion.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Legal AI
+  - Legal Technology
+  - Plaintiff Law
+  - Personal Injury
+  - Labor And Employment
+  - Case Intake
+  - Demand Letters
+  - Medical Chronology
+  - Discovery
+  - Litigation
+  - Document Drafting
+  - AI Agents
+  - Voice Agent
+  - Case Auditing
+  - SaaS
+  - SOC 2
+  - HIPAA
+  - Butler Labs
+url: https://raw.githubusercontent.com/api-evangelist/eve-legal/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.eve.legal
+  - type: ParentCompany
+    url: https://www.eve.legal/about-us
+  - type: About
+    url: https://www.eve.legal/about-us
+  - type: Product
+    url: https://www.eve.legal/eve-2
+  - type: Agents
+    url: https://www.eve.legal/eve-agents
+  - type: Auditor
+    url: https://www.eve.legal/eve-auditor
+  - type: PracticeArea
+    url: https://www.eve.legal/personal-injury
+  - type: PracticeArea
+    url: https://www.eve.legal/labor-and-employment
+  - type: Solution
+    url: https://www.eve.legal/case-intake-and-evaluation
+  - type: Solution
+    url: https://www.eve.legal/medical-overviews
+  - type: Solution
+    url: https://www.eve.legal/demand-letters
+  - type: Solution
+    url: https://www.eve.legal/drafting
+  - type: Solution
+    url: https://www.eve.legal/propounding-discovery
+  - type: Solution
+    url: https://www.eve.legal/responding-to-discovery
+  - type: CustomerStories
+    url: https://www.eve.legal/customer-stories
+  - type: ResourceLibrary
+    url: https://www.eve.legal/resource-library
+  - type: Blog
+    url: https://www.eve.legal/blog
+  - type: Press
+    url: https://www.eve.legal/press
+  - type: Webinars
+    url: https://www.eve.legal/webinars
+  - type: AINativeLawFirms
+    url: https://www.eve.legal/ai-native-law-firms
+  - type: Careers
+    url: https://www.eve.legal/careers
+  - type: ReferAFirm
+    url: https://www.eve.legal/refer-a-firm
+  - type: Demo
+    url: https://www.eve.legal/schedule-a-call
+  - type: SignIn
+    url: https://app.eve.legal
+  - type: MasterServiceAgreement
+    url: https://www.eve.legal/master-service-agreement
+  - type: ServiceLevelAgreement
+    url: https://www.eve.legal/service-level-agreement
+  - type: PrivacyPolicy
+    url: https://www.eve.legal/privacy
+  - type: GitHubOrg
+    url: https://github.com/eve-legal
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/eve-legal
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
