@@ -71,17 +71,17 @@ common:
     url: https://www.eve.legal/personal-injury
   - type: PracticeArea
     url: https://www.eve.legal/labor-and-employment
-  - type: Solution
+  - type: Solutions
     url: https://www.eve.legal/case-intake-and-evaluation
-  - type: Solution
+  - type: Solutions
     url: https://www.eve.legal/medical-overviews
-  - type: Solution
+  - type: Solutions
     url: https://www.eve.legal/demand-letters
-  - type: Solution
+  - type: Solutions
     url: https://www.eve.legal/drafting
-  - type: Solution
+  - type: Solutions
     url: https://www.eve.legal/propounding-discovery
-  - type: Solution
+  - type: Solutions
     url: https://www.eve.legal/responding-to-discovery
   - type: CustomerStories
     url: https://www.eve.legal/customer-stories
@@ -101,7 +101,7 @@ common:
     url: https://www.eve.legal/refer-a-firm
   - type: Demo
     url: https://www.eve.legal/schedule-a-call
-  - type: SignIn
+  - type: Login
     url: https://app.eve.legal
   - type: MasterServiceAgreement
     url: https://www.eve.legal/master-service-agreement
