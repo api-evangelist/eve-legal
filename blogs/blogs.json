@@ -2,13 +2,11 @@
   "repo": "eve-legal",
   "feeds": [
     {
-      "source": "https://www.eve.legal/blog",
-      "feed_url": "",
-      "saved": 1,
-      "method": "agent-scrape"
+      "source": "https://www.eve.legal/resource-library",
+      "error": "HTTPError"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-27T12:40:16Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 5,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
