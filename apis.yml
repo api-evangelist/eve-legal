@@ -27,6 +27,17 @@ description: >-
   zero public repos as of May 2026). All access is through the Eve web
   application following a sales-led "Schedule a call" / "Book a Demo" motion.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
